@@ -235,7 +235,7 @@ header {
 
 .category {
     background: var(--color-bg2);
-    padding: 2rem;
+    padding: 1.5rem;
     border-radius: 2rem;
     transition: var(--transition)
 }
@@ -254,12 +254,12 @@ header {
 
 .category h5 {
     margin: 2rem 0 1rem;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     
 }
 
 .category p {
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
 
 
