@@ -170,7 +170,7 @@ header {
     top: 5rem;
     overflow: hidden;
     height: 80vh;
-    margin-bottom: 5rem;
+    margin-bottom: 7rem;
 }
 
 .header__container {
@@ -189,12 +189,12 @@ header {
 
 .header__left p {
     margin: 1rem 0 2.4rem;
-    font-size: 1.2rem;
+    font-size: 0.9rem;
 }
 
 .header__left h1 {
-    margin-bottom: 5rem;
-    font-size: 0.9rem;
+    margin-bottom: 3rem;
+    font-size: 1.2rem;
 }
 
 .header__right-img img {
